@@ -99,3 +99,9 @@ ENV/
 
 # mypy
 .mypy_cache/
+/w1/w1/1_6.txt
+/w1/w1/1_5.txt
+/w1/w1/1_4.txt
+/w1/w1/1_3.txt
+/w1/w1/1_2.txt
+/w1/w1/1_1.txt
