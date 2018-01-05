@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>f96ed277-3d3e-4645-8c34-c74d0038fa4e</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>w1.py</StartupFile>
+    <StartupFile>w2.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -22,6 +22,9 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="w2.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="w1.py" />
   </ItemGroup>
   <ItemGroup>
