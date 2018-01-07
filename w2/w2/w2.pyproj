@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>dca5d35e-b183-4146-8bce-082dfcb50954</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>t1.py</StartupFile>
+    <StartupFile>t2.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -22,6 +22,9 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="t2.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="t1.py" />
   </ItemGroup>
   <ItemGroup>
