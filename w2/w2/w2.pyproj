@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>dca5d35e-b183-4146-8bce-082dfcb50954</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>t2.py</StartupFile>
+    <StartupFile>t3.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -26,6 +26,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="t1.py" />
+    <Compile Include="t3.py">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <InterpreterReference Include="Global|ContinuumAnalytics|Anaconda36-64" />
